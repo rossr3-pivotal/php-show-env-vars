@@ -1,0 +1,6 @@
+---
+applications:
+- name: phpenvs
+  memory: 64M
+  path: .
+
